@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-./assets/Screenshot Meet Landing Page.png
+(./assets/Screenshot Meet Landing Page.png)
 
 ### Links
 
@@ -43,4 +43,3 @@ Users should be able to:
 
 - GitHub (https://github.com/stefanstraeter)
 - Frontend (https://www.frontendmentor.io/profile/stefanstraeter)
-# Meet-Landing-Page
