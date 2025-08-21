@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./assets/Screenshot Meet Landing Page.png)
+<img width="1705" height="906" alt="Screenshot Meet Landing Page" src="./assets/Screenshot Meet Landing Page.png" />
 
 ### Links
 
