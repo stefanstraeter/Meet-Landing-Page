@@ -87,7 +87,6 @@ body {
   flex-flow: column;
   gap: var(--space-800);
   padding: var(--section-padding);
-  max-width: 170rem;
   margin: 0 auto;
 }
 
@@ -143,6 +142,7 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: var(--space-800);
+    max-width: 170rem;
   }
 
   .hero-content {
