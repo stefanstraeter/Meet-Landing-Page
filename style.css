@@ -126,8 +126,8 @@ body {
 }
 
 .breakout {
-  width: 100vw;
-  margin-inline: calc(50% - 50vw);
+  width: auto;
+  margin-inline: calc(80% - 80vw);
 }
 
 @media only screen and (min-width: 35rem) {
